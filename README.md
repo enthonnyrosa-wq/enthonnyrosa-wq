@@ -1,10 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Olá,%20eu%20sou%20[SEU NOME]!&fontSize=50" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Curso-[NOME DO CURSO]-blue?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hobby-[SEU HOBBY]-orange?style=for-the-badge&logo=heart&logoColor=white" />
 </div>
 
 ---
@@ -35,6 +32,4 @@ Este ano meu foco está voltado para o desenvolvimento Full Stack e automação,
 
 <div align="center">
   <a href="https://www.linkedin.com/in/[SEU-LINKEDIN]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </div>
